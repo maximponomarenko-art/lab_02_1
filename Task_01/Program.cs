@@ -1,5 +1,6 @@
 ﻿namespace Task_01
 {
+    //коментарі ****
     internal class Program
     {
         static void Main()
